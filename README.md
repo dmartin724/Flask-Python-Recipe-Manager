@@ -192,3 +192,5 @@ There two types of collection within MongoDB. one is the actual recipes and then
 
 #### Licence
 Copyright (c) 2019 Lucas Suarez
+7. Data Analytics with Jupyter & Pandas
+8.> Comimg Soon
